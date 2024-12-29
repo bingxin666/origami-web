@@ -5,14 +5,17 @@ layout: home
 hero:
   name: "Origami Network"
   text: "Friends to Everyone."
-  tagline: My great project tagline
+  tagline: 这里应该写点什么，但我没活了
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 服务列表
+      link: /service/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 状态
+      link: /status
+    - theme: alt
+      text: 我是占位符XD
+      link: /xd
 
 features:
   - title: Feature A
